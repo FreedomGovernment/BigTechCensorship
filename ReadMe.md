@@ -4,10 +4,18 @@ This repository contains all information about accounts banned by and other FBI,
 
 If you have been illegally censored by Big Tech, please join our class action lawsuit, [INDIE NEWS AND POLITICAL COMMENTARY vs BIG TECH](https://github.com/FreedomGovernment/INPCVsBigTech).
 
+## Contributing
+
+This is a new project and I need you to post the links to all of the Twitter Files lists of censored accounts as an Issue ticket (Google how to submit GitHub issue ticket). I will hack us up a quick Next.JS web server when you contribute too. Thanks.
+
 ## Key Words and Phrases
 
 List of banned Twitter users
 Twitter censorship
+Twitter files
+The Democracy Integrity Project
+Fusion-GPS
+Russiagate
 
 ## License
 
